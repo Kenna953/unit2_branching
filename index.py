@@ -2,7 +2,7 @@
 course ID: CPRG-216-A Object Orriented Programming
 
 Description:  
-Retirement eligibility checker (Graded question) 
+Retirement eligibility checker (Graded question 
 Manna Corp. provides pension and other benefits to eligible retiring employees. The 
 minimum age for retirement is 50 years. If a retiring employee’s age is at least 65 or their 
 age plus years of service is at least 80 then that employee is eligible for a full pension. 
@@ -31,5 +31,3 @@ if int(age) >= min_retirement_age:
             print("You are eligible for  retirement with discounted pension benefits")
 else:
     print("You are not eligible for retirement")
-
-    
